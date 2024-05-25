@@ -1,3 +1,4 @@
+
 ---
 # Display name
 title: Yiru Zhou
@@ -65,28 +66,27 @@ education:
       #- lorem ipsum dolor sit amet, consectetur adipiscing elit
       #- lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Shanghai Leader                                                
+    company_name: Entrepreneurs in Action (EIA)
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2021-11-21
+    date_end: 2023-08-01
     summary: |
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Managed the official WeChat account: wrote & and edited monthly previews and recaps of events
+      - Held regular roundtable discussions with foreign entrepreneurs in Shanghai twice a month
+  - position: Research Assistant
+    company_name: Young Green Tech (YGT)
+    company_url: https://younggreentech.net/
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-01-15
+    date_end: 2022-6-15
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Kept track of the latest market news, published analytical articles on the official WeChat account, and reached out to potential media partners and companies
+      - Collected information, did research in haptic materials and the hydrogen energy industries and companies and provided support for financial advisors.
+     
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -146,5 +146,4 @@ work:
 ---
 
 ## About Me
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Yiru Zhou (周意茹). I am an undergraduate student at New York University Shanghai, pursuing a double major in Mathematics and Computer Science. My research interests span artificial intelligence and its applications in language, music, and biology. During my undergraduate studies, I have had the privilege of working with [Gus Xia](http://www.musicxlab.com/members/gus/) and [Alex Ruthmann](https://steinhardt.nyu.edu/people/s-alex-ruthmann), [Adam Meyers](https://nlp.cs.nyu.edu/people/meyers.html) and [Hongyu Zhao](https://ysph.yale.edu/profile/hongyu-zhao/).
