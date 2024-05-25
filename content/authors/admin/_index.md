@@ -55,8 +55,8 @@ education:
   
   - area: BSc Computer Science and Mathematics
     institution: New York University
-    date_start: 2021-09
-    date_end: 2025-06
+    date_start: 2021-09-01
+    date_end: 2025-06-01
     summary: |
       #GPA: 3.7/4.0
       
