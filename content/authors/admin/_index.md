@@ -57,6 +57,10 @@ education:
     date_end: 2025-06-01
     summary: |
       GPA: 3.7/4.0
+      Courses:
+      Math: Linear Algebra, Multivariable calculus, Discrete Math, Probability and Statistics, Analysis, Numerical Analysis
+      Computer Science: Data Structure, Computer Architecture, Operating System, Machine Learning, Algorithms
+      Graduate Courses: Natural Language Processing, Deep Learning
 
 work:
   - position: Shanghai Leader                                                
