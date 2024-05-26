@@ -56,10 +56,10 @@ education:
     date_start: 2021-09-01
     date_end: 2025-06-01
     summary: |
-      GPA: 3.7/4.0
-      Courses:
-      Math: Linear Algebra, Multivariable calculus, Discrete Math, Probability and Statistics, Analysis, Numerical Analysis
-      Computer Science: Data Structure, Computer Architecture, Operating System, Machine Learning, Algorithms
+      GPA: 3.7/4.0<br>
+      Courses:<br>
+      Math: Linear Algebra, Multivariable calculus, Discrete Math, Probability and Statistics, Analysis, Numerical Analysis<br>
+      Computer Science: Data Structure, Computer Architecture, Operating System, Machine Learning, Algorithms<br>
       Graduate Courses: Natural Language Processing, Deep Learning
 
 work:
