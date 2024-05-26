@@ -63,6 +63,13 @@ education:
       Graduate Courses: Natural Language Processing, Deep Learning
 
 work:
+  - position: Learning Assistant                                           
+    company_name: Calculus
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-8-21
+    date_end: ''
+    summary: |
   - position: Shanghai Leader                                                
     company_name: Entrepreneurs in Action (EIA)
     company_url: ''
