@@ -63,16 +63,16 @@ education:
       Graduate Courses: Natural Language Processing, Deep Learning
 
 work:
-  - position: Learning Assistant                                           
+  - position: Learning Assistant
     company_name: Calculus
     company_url: ''
     company_logo: ''
-    date_start: 2024-8-21
+    date_start: 2024-08-21
     date_end: ''
     summary: |
       Responsibilities include:
       - Hold office hours and review sessions on Calculus
-  - position: Shanghai Leader                                                
+  - position: Shanghai Leader
     company_name: Entrepreneurs in Action (EIA)
     company_url: ''
     company_logo: ''
@@ -80,7 +80,7 @@ work:
     date_end: 2023-08-01
     summary: |
       Responsibilities include:
-      - Managed the official WeChat account: wrote & and edited monthly previews and recaps of events
+      - Managed the official WeChat account: wrote & edited monthly previews and recaps of events
       - Held regular roundtable discussions with foreign entrepreneurs in Shanghai twice a month
   - position: Research Assistant
     company_name: Young Green Tech (YGT)
