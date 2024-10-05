@@ -57,7 +57,7 @@ education:
     date_end: 2025-06-01
     summary: |
       GPA: 3.7/4.0<br>
-      MGPA: 3.8/4.0<br>
+      GPA (Major): 3.8/4.0<br>
       Courses:<br>
       Math: Linear Algebra, Multivariable calculus, Discrete Math, Probability and Statistics, Analysis, Numerical Analysis, Game Theory, ODE, Math Modeling<br>
       Computer Science: Data Structure, Computer Architecture, Operating System, Machine Learning, Algorithms, Information Visualization<br>
