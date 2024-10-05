@@ -1,7 +1,6 @@
 ---
 title: Functional Annotation Analysis for PTSD Causal Gene Identification
 date: 2024-05-25
-external_link: https://github.com/scikit-learn/scikit-learn
 tags:
   - Genetics
   - Biostatistics
