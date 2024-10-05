@@ -1,7 +1,6 @@
 ---
 title: Theoretical and Practical Development of Flow-Based Models
 date: 2024-04-15
-external_link: https://github.com/pytorch/pytorch
 tags:
   - Deep Learning
   - Flow-based Models
