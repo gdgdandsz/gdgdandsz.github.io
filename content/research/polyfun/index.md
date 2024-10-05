@@ -1,6 +1,7 @@
 ---
 title: Functional Annotation Analysis for PTSD Causal Gene Identification
 date: 2024-05-25
+external_link: https://medium.com/@yiruzhou19/leveraging-polyfun-for-multi-functional-annotation-analysis-a69c8b6d5cf1
 tags:
   - Genetics
   - Biostatistics
