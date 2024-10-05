@@ -1,7 +1,6 @@
 ---
 title: Personalizing Large Language Models for Value Judgments Based on Cognitive Models
 date: 2024-07-25
-external_link: https://github.com/scikit-learn/scikit-learn
 tags:
   - Genetics
   - Biostatistics
