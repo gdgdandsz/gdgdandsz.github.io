@@ -58,7 +58,7 @@ education:
     summary: |
       GPA: 3.7/4.0<br>
       Courses:<br>
-      Math: Linear Algebra, Multivariable calculus, Discrete Math, Probability and Statistics, Analysis, Numerical Analysis, Stochastic Process, ODE, Math Modeling<br>
+      Math: Linear Algebra, Multivariable calculus, Discrete Math, Probability and Statistics, Analysis, Numerical Analysis, Game Theory, ODE, Math Modeling<br>
       Computer Science: Data Structure, Computer Architecture, Operating System, Machine Learning, Algorithms, Information Visualization<br>
       Graduate Courses: Natural Language Processing, Deep Learning
 
