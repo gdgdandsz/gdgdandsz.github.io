@@ -2,8 +2,7 @@
 title: Exploratory Study on Bayesian Statistics
 date: 2023-09-02
 tags:
-  - Music Generation
-  - Movement Detection
+  - Bayesian Statistics
 ---
 
 Independent Study, Supervised by Prof. Roberto Fernandez, NYUSH<br>
