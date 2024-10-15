@@ -62,6 +62,7 @@ education:
       Math: Linear Algebra, Multivariable calculus, Discrete Math, Probability and Statistics, Analysis, Numerical Analysis, Game Theory, ODE, Math Modeling<br>
       Computer Science: Data Structure, Computer Architecture, Operating System, Machine Learning, Algorithms, Information Visualization<br>
       Graduate Courses: Natural Language Processing, Deep Learning
+  - [Photo with Yann LeCun in the deep learning class](/uploads/edu_photo.jpg)
 
 work:
   - position: Learning Assistant
