@@ -49,6 +49,7 @@ profiles:
 interests:
   - Artificial Intelligence
   - Computational Biology
+  - Computational Cognitive Science
 
 education:
   - area: BSc Computer Science and Mathematics
