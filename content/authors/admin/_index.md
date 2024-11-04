@@ -154,4 +154,4 @@ work:
 ---
 
 ## About Me
-My name is Yiru Zhou (周意茹). I am an undergraduate student at New York University Shanghai, pursuing a double major in Mathematics and Computer Science. My research interests span artificial intelligence and its applications in language, music, and biology. During my undergraduate studies, I have had the privilege of working with [Gus Xia](http://www.musicxlab.com/members/gus/), [Alex Ruthmann](https://steinhardt.nyu.edu/people/s-alex-ruthmann), [Adam Meyers](https://nlp.cs.nyu.edu/people/meyers.html), and [Hongyu Zhao](https://ysph.yale.edu/profile/hongyu-zhao/).
+My name is Yiru Zhou (周意茹). I am an undergraduate student at New York University Shanghai, pursuing a double major in Mathematics and Computer Science. My research interests span artificial intelligence and its applications in language, music, and biology.
