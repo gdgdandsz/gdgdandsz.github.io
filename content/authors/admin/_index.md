@@ -65,11 +65,7 @@ education:
       Math: Linear Algebra, Multivariable calculus, Discrete Math, Probability and Statistics, Analysis, Numerical Analysis, Game Theory, ODE, Math Modeling<br>
       Computer Science: Data Structure, Computer Architecture, Operating System, Machine Learning, Algorithms, Information Visualization<br>
       Graduate Courses: Natural Language Processing, Deep Learning
-- area: M.S. Computational Biology and Quantitative Genetics
-    institution: Harvard University
-    date_start: 2025-09-01
-    date_end: 2027-06-01
-    
+
 work:
   - position: Learning Assistant
     company_name: Calculus
