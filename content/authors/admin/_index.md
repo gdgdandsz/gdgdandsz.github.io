@@ -26,12 +26,14 @@ highlight_name: true
 organizations:
   - name: New York University (Shanghai)
     url: https://shanghai.nyu.edu/
+  - name: Harvard University (Shanghai)
+    url: https://www.harvard.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:yz8297@nyu.edu'
+    url: 'mailto:yiruzhou19@gmail.com'
     label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
@@ -57,13 +59,16 @@ education:
     date_start: 2021-09-01
     date_end: 2025-06-01
     summary: |
-      ![Photo with Yann LeCun in the deep learning class](/uploads/edu_photo.jpg)
       GPA: 3.7/4.0<br>
       GPA (Major): 3.8/4.0<br>
       Courses:<br>
       Math: Linear Algebra, Multivariable calculus, Discrete Math, Probability and Statistics, Analysis, Numerical Analysis, Game Theory, ODE, Math Modeling<br>
       Computer Science: Data Structure, Computer Architecture, Operating System, Machine Learning, Algorithms, Information Visualization<br>
       Graduate Courses: Natural Language Processing, Deep Learning
+    - area: M.S. Computational Biology and Quantitative Genetics
+    institution: Harvard University
+    date_start: 2025-09-01
+    date_end: 2027-06-01
     
 work:
   - position: Learning Assistant
